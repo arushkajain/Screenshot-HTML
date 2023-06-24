@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Web Screenshot App</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <header>
+    <h1>Web Screenshot App</h1>
+  </header>
+
+  <main>
+    <form id="screenshot-form">
+      <label for="url">Enter website URL:</label>
+      <div class="input-group">
+        <input type="text" id="url" name="url" placeholder="https://www.example.com" required>
+        <button type="submit">Generate HTML</button>
+      </div>
+    </form>
+
+    <div id="screenshot-preview">
+      <h2>Screenshot Preview:</h2>
+      <img src="" alt="Screenshot">
+    </div>
+
+    <div id="html-code">
+      <h2>Generated HTML Code:</h2>
+      <code></code>
+    </div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
