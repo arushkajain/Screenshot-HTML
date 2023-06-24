@@ -22,11 +22,11 @@ This is a web application that allows users to input a url or a screenshot of a 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/web-screenshot-app.git
+   git clone https://github.com/arushkajain/Screenshot-HTML.git 
    
 2. Navigate to the project directory:
    ```shell
-   cd web-screenshot-app
+   cd Screenshot-HTML
 3. Open index.html in a web browser:
    ```shell
      open index.html
