@@ -1,4 +1,6 @@
 # Screenshot to HTML convertor App
+![image](https://github.com/arushkajain/Screenshot-HTML/assets/134403254/5fd83eb9-a8a2-4acf-a027-9ae15475d165)
+
 
 This is a web application that allows users to input a url or a screenshot of a website and generate the corresponding HTML code for building a webpage with a similar layout.
 
